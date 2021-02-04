@@ -1,0 +1,14 @@
+26/01/21
+
+    -tela de cadastro de usuários concluido
+
+
+    *20:20
+    *utilizando express-session
+    *21:52
+    *implementado o middleware express-session
+
+27/01/21
+    *08:30
+    *criar ações do jogo
+
